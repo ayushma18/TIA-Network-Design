@@ -146,6 +146,14 @@ Passwords: console `cisco` · privileged `class` · telnet `network`.
 
 ---
 
+## Services in Action
+
+**Web server reached by name across the network.** A PC in the Cargo area opens `http://www.ayushma.com`; DNS resolves the name to the web server in Server Farm A and the hosted page loads — confirming that DNS resolution, inter-area routing and the web service all work end to end.
+
+![Web page served over the TIA network](images/webserver.png)
+
+---
+
 ## Files in this repository
 
 | File | Description |
