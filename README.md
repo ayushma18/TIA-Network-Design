@@ -1,4 +1,4 @@
-# Tribhuvan International Airport (TIA) — Enterprise & ISP Network Design
+Computer Networks Mini-Project - Pulchowk Campus - TIA Airport Network Design in Cisco Packet Tracer
 
 A complete enterprise network for **Tribhuvan International Airport (TIA), Kathmandu**, designed and realised in **Cisco Packet Tracer** as a Computer Networks mini-project.
 
